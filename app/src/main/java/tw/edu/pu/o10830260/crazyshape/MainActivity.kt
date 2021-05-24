@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
         Toast.makeText(baseContext, "作者：鄧嘉慧", Toast.LENGTH_LONG).show()
 
         imgNext.setOnLongClickListener(object : View.OnLongClickListener {
